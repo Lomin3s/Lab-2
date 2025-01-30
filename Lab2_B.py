@@ -53,6 +53,6 @@ def main():
         print(f'You owe ${owed_taxes:.2f} this year.')
 
     except:
-        print('Value Error')
+        print('Something went wrong.')
 
 main()

@@ -23,6 +23,6 @@ def main():
             print("One of your sides is invalid!")
 
     except:
-        print("Value Error")
+        print("Something went wrong.")
 
 main()

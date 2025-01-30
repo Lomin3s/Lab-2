@@ -39,6 +39,6 @@ def main():
         print(f'That is {temp2:.1f} degrees {unit2}.')
 
     except:
-        print('Something went wrong')
+        print('Something went wrong.')
 
 main()
