@@ -36,7 +36,7 @@ def main():
 
         round(temp2, 1)
 
-        print(f'That is {temp2:.1f} degrees {unit2}')
+        print(f'That is {temp2:.1f} degrees {unit2}.')
 
     except:
         print('Something went wrong')
